@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">Welcome</string>
+    <string name="sub_heading">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="scan_items">Scan Items</string>
+    <string name="cart">Cart</string>
+    <string name="checkout">Checkout</string>
+    <string name="scan">Scan</string>
+    <string name="unit_price">Unit Price</string>
+    <string name="quantity">Quantity</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+    <string name="product_name">Product Name</string>
+    <string name="product">Product</string>
+    <string name="total_price">Total Price</string>
+</resources>
